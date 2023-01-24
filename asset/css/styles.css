@@ -1,0 +1,27 @@
+body {
+  background-color: #fff;
+  font-family: trip sans TripSans-Regular;
+}
+.container {
+  width: 1024px;
+  margin: auto;
+}
+
+.logo-header {
+  width: 200px;
+}
+li {
+  font-size: 16px;
+}
+.navhaut {
+  display: flex;
+  justify-content: space-between;
+}
+.navhaut ul {
+  display: flex;
+}
+.navhaut ul li {
+  font-size: 16px;
+  flex: auto;
+  margin-left: 50px;
+}

@@ -1,27 +1,21 @@
 body {
   background-color: #fff;
   font-family: trip sans TripSans-Regular;
+  margin-top: 40px;
+  font-family: google;
 }
 .container {
   width: 1024px;
   margin: auto;
+  margin-left: 152px;
 }
 
 .logo-header {
-  width: 200px;
-}
-li {
-  font-size: 16px;
+  width: 183px;
 }
 .navhaut {
   display: flex;
-  justify-content: space-between;
 }
-.navhaut ul {
-  display: flex;
-}
-.navhaut ul li {
-  font-size: 16px;
-  flex: auto;
-  margin-left: 50px;
+.navhaut li {
+  flex: 1;
 }
